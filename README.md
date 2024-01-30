@@ -6,4 +6,4 @@ Started back in **Feb 2021**, as a successor of mobile-app, dy-mde has spiralled
 
 ### Pain points
 --- 
-From having large components to not adhering to principles like DRY (Don't Repeat Yourself), KISS(Keep It Simple Silly) and separation of concerns, we have quite a long list of problems on our hands which need to be tackled in a way that it not only improves the DX (Developer Experience) but also brings in consistency across the entire repository
+From having large components, numerous states, unstructured data to lack separation of concerns, we have quite a long list of problems on our hands which need to be tackled in a way that it not only improves the developer experience but also brings in consistency across the entire codebase
